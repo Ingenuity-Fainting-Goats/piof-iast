@@ -1,5 +1,5 @@
 # PIOF-iast - PHP Open Iast Agent based on PIOF project
-![PIOF-iast PHP Open Iast Agent based on PIOF project](https://github.com/ingenuity-ninja/piof)
+![PIOF-iast PHP Open Iast Agent based on PIOF project](https://github.com/ingenuity-ninja/piof-iast/raw/master/images/logo.png)
 
 # What
 PIOF-iast - Is a IAST ( Interactive Application Security Testing ) Agent for PHP language based on [PIOF Project](https://github.com/ingenuity-ninja/piof).
